@@ -1,0 +1,508 @@
+[
+    {
+        "id": "1",
+        "category": { "lips": {"subcategory": "Lipsticks"} },
+        "title": "POWDER KISS VELVET BLUR SLIM STICK",
+        "currentPrice": 27.00,
+        "previousPrice": null,
+        "description": "Experience moisture-matte to the max with our NEW Powder Kiss Velvet Blur Slim Lipstick! 12 hours of on-trend, mega-bold colour and ultra-weightless wear in a single, velvet-soft swipe. The more you Powder Kiss, the softer, smoother, suppler your lips will be. Designed for all-day wear + care, this lipstick will hydrate your lips instantly and over time. Introduce your lips to Powder Kiss' bolder sister.",
+        "ingredients": "Ingredients: Dimethicone, Hydrogenated Polyisobutene, Cetearyl Ethylhexanoate, Dicalcium Phosphate, Microcrystalline Wax|Cera Microcristallina|Cire Microcristalline, Caprylic|Capric Triglyceride, Polyethylene, Dimethicone|Vinyl Dimethicone Crosspolymer, Trimethylolpropane Triisostearate, Ethylhexyl Isononanoate, Silica, Kaolin, Synthetic Wax, Bis-Diglyceryl Polyacyladipate-2, Sodium Hyaluronate, Stearalkonium Hectorite, Ricinus Communis (Castor) Seed Oil, Hydrogenated Castor Oil, Copernicia Cerifera (Carnauba) Wax| Copernicia Cerifera Cera |Cire De Carnauba, Mica, Propylene Carbonate, Vanillin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Bht, [+|- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Bismuth Oxychloride (Ci 77163), Blue 1 Lake (Ci 42090), Manganese Violet (Ci 77742), Red 6 (Ci 15850), Red 21 (Ci 45380), Red 30 (Ci 73360), Red 6 Lake (Ci 15850), Red 7 Lake (Ci 15850), Red 28 Lake (Ci 45410), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985)]  ILN50652 ",
+        "weight": {
+            "imperial": {
+                "oz": 0.07
+            }
+        },
+        "colors": [
+            {
+                "name": "Dubonnet Buzz",
+                "hex": "BC6258"
+            },
+            {
+                "name": "Sweet Cinnamon",
+                "hex": "91473D"
+            },
+            {
+                "name": "Wild Rebel",
+                "hex": "6B4569"
+            },
+            {
+                "name": "Stay Curious",
+                "hex": "9B5255"
+            },
+            {
+                "name": "Hot Paprika",
+                "hex": "DD5443"
+            },
+            {
+                "name": "Devoted To Danger",
+                "hex": "A22E29"
+            },
+            {
+                "name": "Gingerella",
+                "hex": "9E544E"
+            },
+            {
+                "name": "Devoted To Chili",
+                "hex": "C46A5F"
+            },
+            {
+                "name": "Nice Spice",
+                "hex": "BB7066"
+            },
+            {
+                "name": "Brickthrough",
+                "hex": "af6169"
+            },
+            {
+                "name": "Sorry Not Sorry",
+                "hex": "bd5d42"
+            },
+            {
+                "name": "Rose Mary",
+                "hex": "b96061"
+            },
+            {
+                "name": "Ruby New",
+                "hex": "a60c29"
+            },
+            {
+                "name": "Pumpkin Spiced",
+                "hex": "b7382d"
+            },
+            {
+                "name": "Marrakesh Mere",
+                "hex": "b0594d"
+            },
+            {
+                "name": "Marrakesh Mere",
+                "hex": "b0594d"
+            },
+            {
+                "name": "Sheer Outrage",
+                "hex": "cb5959"
+            },
+            {
+                "name": "Peppery Pink",
+                "hex": "ce8683"
+            },
+            
+            
+            
+            
+        ],
+        "label": null
+    },
+    {
+        "id": "2",
+        "category": { "lips": {"subcategory": "Lipsticks"} },
+        "title": "POWDER KISS LIQUID LIPCOLOUR | BUBBLES & BOWS",
+        "currentPrice": 15.60,
+        "previousPrice": 26.00,
+        "description": "Envelop your lips with weightless matte colour. These five holiday-exclusive shades softly and evenly drench lips with just the right amount of non-settling, non-flaking, comfortable pigment – delivering ten hours of moisture with a whipped, mousse-like texture. The special blend of vitamin E, powders and emollient properties provides excellent cushion, flexibility, wear, and moisture that will leave lips looking and feeling soft and smooth all day. Each is ready to gift in limited-edition bubble-popped and bow-topped packaging.",
+        "ingredients": "Ingredients: Dimethicone, Dimethicone Crosspolymer, Isononyl Isononanoate, Polyglyceryl-2 Triisostearate, Diisostearyl Malate, Tribehenin, Tocopheryl Acetate, Lecithin, Ethylhexyl Palmitate, Isopropyl Myristate, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-2 Diisostearate, Sorbitan Isostearate, Dehydroacetic Acid, Isostearic Acid, Polyhydroxystearic Acid, Vanillin, [+|- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Blue 1 Lake (Ci 42090), Red 6 (Ci 15850), Red 7 (Ci 15850), Red 7 Lake (Ci 15850), Red 22 Lake (Ci 45380), Red 28 Lake (Ci 45410), Red 33 Lake (Ci 17200), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985), Mica] ILN50636",
+        "weight": {
+            "imperial": {
+                "oz": 0.15
+            }
+        },
+        "colors": [
+            {
+                "name": "IT'S A TIE!",
+                "hex": "5B1B35"
+            },
+            {
+                "name": "Cheers Dears",
+                "hex": "763C32"
+            },
+            {
+                "name": "Spiked Cocoa",
+                "hex": "8D645F"
+            }
+        ],
+        "label": "NEW"
+    },
+    {
+        "id": "3",
+        "category": { "lips": {"subcategory": "Lipsticks"} },
+        "title": "LIPSTICK | WAKANDA FOREVER",
+        "currentPrice": 13.80,
+        "previousPrice": 23.00,
+        "description": "Paint a powerful pout with four all-new rich shades of lipstick in a variety of textures and colours to accentuate the curve of your smile. With hues inspired by the world of Wakanda, this limited-edition lineup includes our Amplified and Matte formulas. Each is shielded in special-edition Black Panther-inspired packaging.",
+        "ingredients": "Ingredients: Octyldodecanol, Ricinus Communis (Castor) Seed Oil, Silica, Tricaprylyl Citrate, Ozokerite, Isononyl Isononanoate, Paraffin, Phenyl Trimethicone, Microcrystalline Wax|Cera Microcristallina|Cire Microcristalline, Ethylhexyl Palmitate, Caprylic|Capric Triglyceride, Copernicia Cerifera (Carnauba) Wax| Copernicia Cerifera Cera |Cire De Carnauba, Ascorbyl Palmitate, Tocopherol, Stearyl Stearoyl Stearate, Vanillin, Bht, [+|- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Blue 1 Lake (Ci 42090), Carmine (Ci 75470), Red 6 (Ci 15850), Red 6 Lake (Ci 15850), Red 7 Lake (Ci 15850), Red 21 Lake (Ci 45380), Red 28 Lake (Ci 45410), Red 30 Lake (Ci 73360), Red 33 Lake (Ci 17200), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985)]  ILN46425",
+        "weight": {
+            "imperial": {
+                "oz": 0.10
+            }
+        },
+        "colors": [
+            {
+                "name": "Royal Integrity",
+                "hex": "552A1F"
+            },
+            {
+                "name": "Wakandan Sunset",
+                "hex": "722D7B"
+            },
+            {
+                "name": "Story of Home",
+                "hex": "a4645c"
+            },
+            {
+                "name": "Dora Milaje",
+                "hex": "731514"
+            }
+        ],
+        "label": "MATTE"
+    },
+    {
+        "id": "4",
+        "category": { "lips": {"subcategory": "Lipsticks"} },
+        "title": "LIPSTICK | MINI M·A·C",
+        "currentPrice": 15.00,
+        "previousPrice": null,
+        "description": "Major cult shades made mini. Ten hues, three textures. The iconic product that made M·A·C famous. Pro discount is not applicable.",
+        "ingredients": "Ingredients: Octyldodecanol, Ricinus Communis (Castor) Seed Oil, Silica, Tricaprylyl Citrate, Ozokerite, Isononyl Isononanoate, Paraffin, Phenyl Trimethicone, Microcrystalline Wax|Cera Microcristallina|Cire Microcristalline, Ethylhexyl Palmitate, Caprylic|Capric Triglyceride, Copernicia Cerifera (Carnauba) Wax| Copernicia Cerifera Cera |Cire De Carnauba, Ascorbyl Palmitate, Tocopherol, Stearyl Stearoyl Stearate, Vanillin, Bht, [+|- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Blue 1 Lake (Ci 42090), Carmine (Ci 75470), Red 6 (Ci 15850), Red 6 Lake (Ci 15850), Red 7 Lake (Ci 15850), Red 21 Lake (Ci 45380), Red 28 Lake (Ci 45410), Red 30 Lake (Ci 73360), Red 33 Lake (Ci 17200), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985)] ILN46425",
+        "weight": {
+            "imperial": {
+                "oz": 0.06
+            }
+        },
+        "colors": [
+            {
+                "name": "D For Danger",
+                "hex": "901935"
+            },
+            {
+                "name": "Runway Hit",
+                "hex": "D06E65"
+            },
+            {
+                "name": "Lady Danger",
+                "hex": "D94032"
+            },
+            {
+                "name": "Russian Red",
+                "hex": "992520"
+            },
+            {
+                "name": "Velvet Teddy",
+                "hex": "ce7361"
+            },
+            {
+                "name": "Whirl",
+                "hex": "a65149"
+            },
+            {
+                "name": "Tropic Tonic",
+                "hex": "ff5951"
+            },
+            {
+                "name": "Mehr",
+                "hex": "c95f6b"
+            },
+            {
+                "name": "Please Me",
+                "hex": "DC787F"
+            },
+            {
+                "name": "Diva",
+                "hex": "6b0b1b"
+            }
+        ],
+        "label": "BEST SELLER"
+    },
+    {
+        "id": "5",
+        "category": { "lips": {"subcategory": "Lipsticks"} },
+        "title": "RETRO MATTE LIPSTICK",
+        "currentPrice": 17.60,
+        "previousPrice": 22.00,
+        "description": "M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.",
+        "ingredients": "Ingredients: Dimethicone, Isoeicosane, Kaolin, Ceresin, Paraffin, Isononyl Isononanoate, Microcrystalline Wax (Cera Microcristallina), Silica, Caprylic|Capric Triglyceride, Carnauba (Copernicia Cerifera) Wax, Hydrogenated Polyisobutene, Vanillin, Tocopherol, Glyceryl Linoleate, Glyceryl Linolenate, Pvp|Hexadecene Copolymer, Methicone, Triethoxycaprylylsilane, [+|-(May Contain) Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Bismuth Oxychloride (Ci 77163), Carmine (Ci 75470), Red 6 (Ci 15850), Red 7 Lake (Ci 15850), Red 28 Lake (Ci 45410), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985), Yellow 10 Lake (Ci 47005), Red 33 Lake (Ci 17200), Blue 1 Lake (Ci 42090), Red 30 Lake (Ci 73360), Red 6 Lake (Ci 15850), Orange 5 Lake (Ci 45370)]  ILN19183",
+        "weight": {
+            "imperial": {
+                "oz": 0.1
+            }
+        },
+        "colors": [
+            {
+                "name": "Ruby Woo",
+                "hex": "A11F19"
+            },
+            {
+                "name": "Relentlessly Red",
+                "hex": "E13549"
+            },
+            {
+                "name": "All Fired Up",
+                "hex": "CC2E58"
+            },
+            {
+                "name": "Dangerous",
+                "hex": "CC4A3B"
+            },
+            {
+                "name": "Runway Hit",
+                "hex": "AF4B43"
+            },
+            {
+                "name": "Flat Out Fabulous",
+                "hex": "B2317A"
+            },
+            {
+                "name": "Bronx",
+                "hex": "B88073"
+            }
+        ],
+        "label": "BEST SELLER"
+    },
+    {
+        "id": "6",
+        "category": { "face": {"subcategory": "Foundation"} },
+        "title": "STUDIO FIX FLUID SPF 15",
+        "currentPrice": 39.00,
+        "previousPrice": null,
+        "description": "24-hour colour-true foundation in 63 shades. Buildable, medium to full coverage in a natural matte finish that won’t cake, crease or settle into fine lines or pores. Our lightweight, oil-free formula provides all day hydration and won’t cause breakouts. For ALL skin types.",
+        "ingredients": "Active Ingredients: Octinoxate 2.50%, Titanium Dioxide 1.00%Ingredients: Water|Aqua|Eau, Cyclopentasiloxane, Peg-10 Dimethicone, Butylene Glycol, Trimethylsiloxysilicate, Dimethicone, Magnesium Sulfate, Laminaria Saccharina Extract, Algae Extract, Tocopheryl Acetate, Sodium Hyaluronate, Tocopherol, Lecithin, Hydrogenated Lecithin, Xanthan Gum, Sorbitan Sesquioleate, Methoxy Amodimethicone|Silsesquioxane Copolymer, Laureth-7, Dipropylene Glycol, Dimethicone|Peg-10|15 Crosspolymer, Dimethicone|Peg-10 Crosspolymer, Peg|Ppg-18|18 Dimethicone, Disteardimonium Hectorite, Silica, Dimethicone Crosspolymer, Triethoxycaprylylsilane, Propylene Carbonate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sorbic Acid, Chloroxylenol, Phenoxyethanol, [+|- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Chromium Oxide Greens (Ci 77288)]  ILN36878 ",
+        "weight": {
+            "imperial": {
+                "oz": 1.0
+            }
+        },
+        "colors": [
+            {
+                "name": "NEUTRAL COOL 20",
+                "hex": "D7A680"
+            },
+            {
+                "name": "NEUTRAL COOL 10",
+                "hex": "E6C2A7"
+            },
+            {
+                "name": "NEUTRAL 5",
+                "hex": "DBA98E"
+            },
+            {
+                "name": "NEUTRAL WARM 22",
+                "hex": "e29f79"
+            },
+            {
+                "name": "NEUTRAL COOL 44",
+                "hex": "c17c4e"
+            },
+            {
+                "name": "NEWUTRAL COOL 50",
+                "hex": "924d22"
+            },
+            {
+                "name": "COOL 55",
+                "hex": "693206"
+            }
+        ],
+        "label": "BEST SELLER"
+    },
+    {
+        "id": "7",
+        "category": { "face": {"subcategory": "Foundation"} },
+        "title": "STUDIO FIX POWDER PLUS FOUNDATION",
+        "currentPrice": 39.00,
+        "previousPrice": null,
+        "description": "A one-step powder and foundation that gives skin a smooth and even ultra-matte finish with medium-to-full buildable coverage, with a velvety texture that allows skin to breathe. M∙A∙C Studio Fix Powder Plus Foundation is long-wearing, colour-true, non-caking, non-streaking and non-settling – all for 12 hours. This pressed powder foundation is available in our most inclusive range of colours.",
+        "ingredients": "Ingredients: Talc, Silica, Isostearyl Palmitate, Methicone, Caprylyl Glycol, Hexylene Glycol, Phenoxyethanol, [+|- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Chromium Oxide Greens (Ci 77288), Ultramarines (Ci 77007)] ILN29838 ",
+        "weight": {
+            "imperial": {
+                "oz": 0.52
+            }
+        },
+        "colors": [
+            {
+                "name": "NEUTRAL COOL 46",
+                "hex": "BA8154"
+            },
+            {
+                "name": "NEUTRAL COOL 47",
+                "hex": "E09B68"
+            },
+            {
+                "name": "NEUTRAL WARM 58",
+                "hex": "987356"
+            },
+            {
+                "name": "NEUTRAL WARM 48",
+                "hex": "BA9165"
+            },
+            {
+                "name": "NEUTRAL COOL 10",
+                "hex": "FBE6D1"
+            },
+            {
+                "name": "NEWUTRAL 5",
+                "hex": "EBCBAC"
+            },
+            {
+                "name": "COOL 5",
+                "hex": "f3c79c"
+            }
+        ],
+        "label": "BEST SELLER"
+    },
+    {
+        "id": "8",
+        "category": { "face": {"subcategory": "Foundation"} },
+        "title": "M·A·C STUDIO FACE AND BODY FOUNDATION 120 ML",
+        "currentPrice": 44.00,
+        "previousPrice": null,
+        "description": "A comfortable, lightweight fluid formula – M∙A∙C Face And Body Foundation contains a special blend of emollients that deliver sheer buildable coverage and a satin finish. The hydrating, long-wearing, water-proof foundation formula glides onto the face and body, providing stay-true colour.",
+        "ingredients": "Ingredients: Water|Aqua|Eau, Dimethicone, Hydrogenated Polyisobutene, Butylene Glycol, Pvp|Hexadecene Copolymer, Stearic Acid, Phenyl Trimethicone, Polyglyceryl-3 Diisostearate, Ethylhexyl Hydroxystearate, Vp|Eicosene Copolymer, Talc, Tocopherol, Tocopheryl Acetate, Citrus Aurantium Dulcis (Orange), Fusanus Spicatus Wood Oil, Xanthan Gum, Triethanolamine, Polysorbate 20, Magnesium Aluminum Silicate, Trimethylsiloxysilicate, Cetyl Alcohol, Disodium Edta, Phenoxyethanol, Chlorphenesin, [+|- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Chromium Oxide Greens (Ci 77288)]  ILN40892 ",
+        "weight": {
+            "imperial": {
+                "oz": 4.0
+            }
+        },
+        "colors": [],
+        "label": "BEST SELLER"
+    },
+    {
+        "id": "9",
+        "category": { "face": {"subcategory": "Foundation"} },
+        "title": "FULL COVERAGE FOUNDATION",
+        "currentPrice": 41.00,
+        "previousPrice": null,
+        "description": "This smooth, blendable formula was developed for the professional Artist who wants an emollient-based, full-coverage M∙A∙C foundation. This water-resistant foundation provides opaque coverage and is long-lasting, covering most scars, blemishes and birthmarks. Available in a wide range of colours, this cream foundation can achieve sheerer coverage by applying a small amount using a moist sponge, or fuller coverage by stippling it on using a dry sponge.",
+        "ingredients": "Ingredients: Octyldodecanol, Dipentaerythrityl Hexahydroxystearate|Hexastearate|Hexarosinate, Synthetic Beeswax, Polyethylene, Silica, Tocopheryl Acetate, Ascorbyl Palmitate, Lecithin, Microcrystalline Wax|Cera Microcristallina|Cire Microcristalline, Triethoxycaprylylsilane, Pvp|Hexadecene Copolymer, Caprylyl Glycol, [+|- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Blue 1 (Ci 42090), Carmine (Ci 75470), Chromium Oxide Greens (Ci 77288), Red 6 (Ci 15850), Red 7 (Ci 15850), Red 28 (Ci 45410), Red 30 (Ci 73360), Red 33 (Ci 17200), Ultramarines (Ci 77007), Yellow 5 Lake (Ci 19140)]  ILN40286 ",
+        "weight": {
+            "imperial": {
+                "oz": 1.0
+            }
+        },
+        "colors": [
+            {
+                "name": "NEUTRAL COOL 15",
+                "hex": "F0D3B4"
+            },
+            {
+                "name": "NEUTRAL COOL 20",
+                "hex": "F7CDA6"
+            },
+            {
+                "name": "NEUTRAL COOL 30",
+                "hex": "EAC79A"
+            },
+            {
+                "name": "NEUTRAL COOL 35",
+                "hex": "eebe94"
+            },
+            {
+                "name": "NEUTRAL COOL 45",
+                "hex": "e0ac78"
+            },
+            {
+                "name": "NEUTRAL COOL 55",
+                "hex": "c78e57"
+            },
+            {
+                "name": "COOL 40",
+                "hex": "ebbe8b"
+            },
+            {
+                "name": "WARM 10",
+                "hex": "F9DFCE"
+            },
+            {
+                "name": "NEUTRAL WARM 40",
+                "hex": "edaf77"
+            },
+            {
+                "name": "NEUTRAL WARM 45",
+                "hex": "b77e59"
+            },
+            {
+                "name": "NEUTRAL WARM 50",
+                "hex": "a17251"
+            }
+        ],
+        "label": null
+    },
+    {
+        "id": "10",
+        "category": { "face": {"subcategory": "Foundation"} },
+        "title": "STUDIO FIX TECH CREAM-TO-POWDER FOUNDATION",
+        "currentPrice": 41.00,
+        "previousPrice": null,
+        "description": "A tri-system blend of water, emollients and powder glides onto skin as a soft, creamy emulsion with a lightweight, transformative texture. The innovative sweat- and humidity-resistant formula provides medium buildable coverage, allowing for true-to-skin shading from very light to very deep in a natural matte finish. Light-diffusing properties soften lines to create a fresh, flawless texture for all skin types. This formula also delivers immediate and long-term moisturization with 12-hour wear and won’t cause acne. Now available in 42 all-inclusive, colour-true shades.",
+        "ingredients": "Ingredients: Water|Aqua|Eau, Dimethicone, Synthetic Wax, Triethylhexanoin, Trimethylsiloxysilicate, Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone, Caprylic|Capric Triglyceride, Butylene Glycol, Polymethylsilsesquioxane, Polymethyl Methacrylate, Phenyl Trimethicone, Glycerin, Sodium Hyaluronate, Trisiloxane, Trihydroxystearin, Cetearyl Dimethicone Crosspolymer, Silica, Synthetic Fluorphlogopite, Alumina, Polysorbate 80, Propylene Carbonate, Triethoxycaprylylsilane, Dimethicone|Peg-10|15 Crosspolymer, Stearalkonium Bentonite, Dipropylene Glycol, Hydrogenated Palm Kernel Glycerides, Hydrogenated Palm Glycerides, Tocopherol, Sodium Citrate, Phenoxyethanol, Sodium Dehydroacetate, Potassium Sorbate, [+|- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499)]  ILN48051 ",
+        "weight": {
+            "imperial": {
+                "oz": 0.35
+            }
+        },
+        "colors": [
+            {
+                "name": "NEUTRAL WARM 50",
+                "hex": "77482A"
+            },
+            {
+                "name": "NEUTRAL COOL 60",
+                "hex": "B47547"
+            },
+            {
+                "name": "NEUTRAL WARM 60",
+                "hex": "61351B"
+            },
+            {
+                "name": "NEUTRAL COOL 16",
+                "hex": "E5B581"
+            },
+            {
+                "name": "NEUTRAL WARM 10",
+                "hex": "F2C9AA"
+            },
+            {
+                "name": "NEUTRAL COOL 25",
+                "hex": "EABA84"
+            },
+            {
+                "name": "NEUTRAL COOL 30",
+                "hex": "D7A771"
+            },
+            {
+                "name": "NEUTRAL WARM 40",
+                "hex": "B57451"
+            }
+        ],
+        "label": "TRY IT ON"
+    },
+    {
+        "id": "11",
+        "category": { "face": {"subcategory": "Foundation"} },
+        "title": "STUDIO TECH",
+        "currentPrice": 21.60,
+        "previousPrice": 36.00,
+        "description": "A tri-system blend of water, emollients and powder glides on as a soft, creamy emulsion. The innovative formula provides a full range of coverage, allowing for true-to-skin shading from very light to very dark in a natural powder-perfect finish. Light-diffusing properties soften lines to create a fresh, flawless texture for all skin types.",
+        "ingredients": "Ingredients: Water|Aqua|Eau, Cyclopentasiloxane, Trimethylolpropane Triethylhexanoate, Isohexadecane, Polyglyceryl-6 Distearate, Caprylic|Capric Triglyceride, Glycerin, Synthetic Wax, Butylene Glycol, Silica, Isononyl Isononanoate, Trihydroxystearin, Tocopherol, Squalane, Lecithin, Ascorbyl Palmitate, Euphorbia Cerifera (Candelilla) Wax|Candelilla Cera|Cire De Candelilla, Dimethicone, Hydrogenated Rapeseed Oil, Hydrogenated Palm Glycerides, Dimethicone|Vinyl Dimethicone Crosspolymer, Triisostearin, Hydrogenated Castor Oil, Glyceryl Oleate, Hydrogenated Palm Kernel Glycerides, Propylene Carbonate, Sodium Chloride, Polyethylene, Silica Silylate (Nano), Glyceryl Stearate, Stearalkonium Bentonite, Polymethyl Methacrylate, Citric Acid, Potassium Sorbate, Chlorphenesin, Sodium Dehydroacetate, [+|- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Chromium Hydroxide Green (Ci 77289), Chromium Oxide Greens (Ci 77288), Ultramarines (Ci 77007), Zinc Oxide (Ci 77947 Nano)]  ILN42101 ",
+        "weight": {
+            "imperial": {
+                "oz": 0.35
+            }
+        },
+        "colors": [
+            {
+                "name": "NEUTRAL WARM 43",
+                "hex": "D79A73"
+            },
+            {
+                "name": "NEUTRAL WARM 58",
+                "hex": "724A3B"
+            },
+            {
+                "name": "NEUTRAL COOL 44",
+                "hex": "feb887"
+            },
+            {
+                "name": "NEUTRAL COOL 50",
+                "hex": "BA8256"
+            }
+        ],
+        "label": "BEST SELLER"
+    },
+]
